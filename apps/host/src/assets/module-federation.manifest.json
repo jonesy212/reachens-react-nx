@@ -1,4 +1,5 @@
 {
-    "dashboard": "http://localhost:4201",
-    "admin": "http://localhost:4202"
-  }
+    "login": "http://localhost:4201",
+    "dashboard": "http://localhost:4202",
+    "admin": "http://localhost:4203"
+}

@@ -5,7 +5,7 @@
  **/
 const moduleFederationConfig = {
   name: 'host',
-  remotes: [],
+  remotes: ['bookstore'],
 };
 
 module.exports = moduleFederationConfig;

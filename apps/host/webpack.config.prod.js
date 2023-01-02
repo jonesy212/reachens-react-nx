@@ -26,8 +26,7 @@ const prodConfig = {
    * ]
    */
   remotes: [
-    ['dashboard', 'http://localhost:4201/'],
-    ['admin', 'http://localhost:4202/'],
+
   ],
 };
 
