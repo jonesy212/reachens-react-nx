@@ -3,3 +3,7 @@
 
 declare module 'dashboard/Module';
 declare module 'admin/Module';
+
+declare module 'login/Module';
+
+declare module 'bookstore/Module';

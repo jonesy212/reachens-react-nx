@@ -15,7 +15,10 @@
     "skipDefaultLibCheck": true,
     "baseUrl": ".",
     "paths": {
-      "@reachens/load-remote-module": ["libs/load-remote-module/src/index.ts"]
+      "@reachens/load-remote-module": ["libs/load-remote-module/src/index.ts"],
+      "@reachens/shared/components/login-form": [
+        "libs/shared/components/login-form/src/index.ts"
+      ]
     }
   },
   "exclude": ["node_modules", "tmp"]
