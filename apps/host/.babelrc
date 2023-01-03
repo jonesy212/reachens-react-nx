@@ -5,6 +5,13 @@
       {
         "runtime": "automatic"
       }
+    ],
+
+    [
+      "@babel/preset-flow",
+      {
+        "runtime": "automatic"
+      }
     ]
   ],
   "plugins": [["styled-components", { "pure": true, "ssr": true }]]

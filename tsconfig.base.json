@@ -15,10 +15,12 @@
     "skipDefaultLibCheck": true,
     "baseUrl": ".",
     "paths": {
+      "@reachens/books/feature": ["libs/books/feature/src/index.ts"],
       "@reachens/load-remote-module": ["libs/load-remote-module/src/index.ts"],
       "@reachens/shared/components/login-form": [
         "libs/shared/components/login-form/src/index.ts"
-      ]
+      ],
+      "@reachens/ui": ["libs/ui/src/index.ts"]
     }
   },
   "exclude": ["node_modules", "tmp"]
